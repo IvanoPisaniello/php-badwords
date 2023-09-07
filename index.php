@@ -1,5 +1,5 @@
 <?php
-$nome = "rafael";
+
 ?>
 
 <!DOCTYPE html>
@@ -14,7 +14,7 @@ $nome = "rafael";
 
 <body>
     <div class="container">
-        <form action="secondpage.php" method="post">
+        <form action="secondpage.php" method="POST">
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Testo</label>
                 <input type="text" class="form-control" id="" aria-describedby="" name="testo">
